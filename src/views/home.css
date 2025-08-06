@@ -1,0 +1,3683 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-home {
+  width: 100%;
+  height: 3192px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-background);
+}
+ 
+.home-background {
+  top: 672px;
+  left: -77px;
+  width: 1530px;
+  height: 2136px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-frame31 {
+  gap: 16px;
+  top: 1622px;
+  left: 1363px;
+  width: 103px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2210 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse231 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse211 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse221 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse201 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3610 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2310 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse251 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse261 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse241 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1910 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3611 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2410 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse291 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse301 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse281 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1911 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3612 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame251 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3310 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3410 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3210 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1912 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3613 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2610 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3311 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3411 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3211 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1913 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3614 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame36 {
+  gap: 16px;
+  top: 2033px;
+  left: 26px;
+  width: 103px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2211 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse232 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse212 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse222 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse202 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3615 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2311 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse252 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse262 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse242 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1914 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3616 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2411 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse292 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse302 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse282 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1915 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3617 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame252 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3312 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3412 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3212 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1916 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3618 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2611 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3313 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3413 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3213 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1917 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3619 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame281 {
+  gap: 16px;
+  top: 283px;
+  left: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2212 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse233 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse213 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse223 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse203 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3620 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2312 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse253 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse263 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse243 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1918 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3621 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2412 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse293 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse303 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse283 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1919 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3622 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame253 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3314 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3414 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3214 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1920 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3623 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2612 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3315 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3415 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3215 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1921 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3624 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-rectangle251 {
+  top: 1453px;
+  left: 0px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-rectangle252 {
+  top: 488px;
+  left: 1375px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-rectangle26 {
+  top: 0px;
+  left: 1361px;
+  width: 91px;
+  height: 91px;
+  position: absolute;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-footer {
+  gap: 32px;
+  top: 2984px;
+  left: -2.5px;
+  width: 1366px;
+  display: flex;
+  padding: 0 0 32px;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-line11 {
+  width: 1366px;
+  height: 1px;
+}
+ 
+.home-frame491 {
+  gap: 48px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-frame492 {
+  gap: 437px;
+  width: 1025px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-frame2413 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame591 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.home-frame16 {
+  gap: 9px;
+  display: flex;
+  align-items: center;
+}
+ 
+.home-logo1 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-union1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.home-text10 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text11 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text12 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2313 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-text13 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group22 {
+  width: 112px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-github {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.home-figma {
+  top: 0px;
+  left: 40px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.home-discord {
+  top: 0px;
+  left: 80px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.home-text14 {
+  color: var(--dl-color-default-gray);
+  width: 298px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-contact {
+  top: 2611px;
+  left: 170px;
+  width: 1148px;
+  height: 188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-group28 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 317px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.home-frame2613 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text15 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line7-stroke1 {
+  width: 127px;
+  height: 1px;
+  flex-grow: 1;
+}
+ 
+.home-group43 {
+  top: 87px;
+  left: 0px;
+  width: 505px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-text16 {
+  color: var(--dl-color-default-gray);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group57 {
+  top: 87px;
+  left: 819px;
+  width: 329px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-frame33 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-text17 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame32 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-group34 {
+  gap: 5px;
+  display: flex;
+  align-items: center;
+}
+ 
+.home-email {
+  width: 32px;
+  height: 32px;
+}
+ 
+.home-text18 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-aboutme1 {
+  top: 1991px;
+  left: 170px;
+  width: 1025px;
+  height: 531px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-aboutme2 {
+  top: 65px;
+  left: 1px;
+  width: 515px;
+  height: 466px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-text19 {
+  color: var(--dl-color-default-gray);
+  width: 515px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-button1 {
+  gap: 10px;
+  top: 429px;
+  left: 0px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text27 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group27 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 516px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.home-frame2614 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text28 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line7-stroke2 {
+  width: 326px;
+  height: 1px;
+  flex-grow: 1;
+}
+ 
+.home-group50 {
+  top: 0px;
+  left: 682px;
+  width: 343px;
+  height: 508px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-image1 {
+  top: 0px;
+  left: 4px;
+  width: 339px;
+  height: 507px;
+  position: absolute;
+}
+ 
+.home-frame29 {
+  gap: 16px;
+  top: 59px;
+  left: 0px;
+  width: 84px;
+  height: 84px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2213 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse234 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse214 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse224 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse204 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3625 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2314 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse254 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse264 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse244 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1922 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3626 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2414 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse294 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse304 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse284 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1923 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3627 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame254 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3316 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3416 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3216 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1924 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3628 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2615 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3317 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3417 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3217 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1925 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3629 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame30 {
+  gap: 16px;
+  top: 279px;
+  left: 223px;
+  width: 104px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2214 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse235 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse215 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse225 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse205 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3630 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2315 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse255 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse265 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse245 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1926 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3631 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2415 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse295 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse305 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse285 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1927 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3632 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2616 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3318 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3418 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3218 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1928 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3633 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-line7-stroke3 {
+  top: 507px;
+  left: 48px;
+  width: 271px;
+  height: 1px;
+  position: absolute;
+  flex-grow: 1;
+}
+ 
+.home-skills {
+  top: 1514px;
+  left: 173px;
+  width: 1034px;
+  height: 365px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-group26 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.home-frame2617 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text29 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line7-stroke4 {
+  width: 239px;
+  height: 1px;
+  flex-grow: 1;
+}
+ 
+.home-group37 {
+  top: 85px;
+  left: 440px;
+  width: 594px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-block {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-frame592 {
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text30 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line131 {
+  width: 178px;
+  height: 1px;
+  align-self: stretch;
+}
+ 
+.home-frame191 {
+  gap: 8px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame2215 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text31 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text32 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2216 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text33 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text34 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2316 {
+  gap: 8px;
+  top: 0px;
+  left: 194px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-frame593 {
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text35 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line132 {
+  width: 178px;
+  height: 1px;
+  align-self: stretch;
+}
+ 
+.home-frame192 {
+  gap: 8px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame2217 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text36 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text37 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2218 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text38 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2416 {
+  gap: 8px;
+  top: 148px;
+  left: 388px;
+  width: 196px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-frame594 {
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text39 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line133 {
+  width: 196px;
+  height: 1px;
+  align-self: stretch;
+}
+ 
+.home-frame193 {
+  gap: 8px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame2219 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text40 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text41 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2220 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text42 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2317 {
+  gap: 11px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text43 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame255 {
+  gap: 8px;
+  top: 119px;
+  left: 194px;
+  width: 178px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-frame595 {
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text44 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line134 {
+  width: 178px;
+  height: 1px;
+  align-self: stretch;
+}
+ 
+.home-frame194 {
+  gap: 8px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame2221 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text45 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text46 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text47 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2222 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text48 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2618 {
+  gap: 8px;
+  top: 0px;
+  left: 388px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-frame596 {
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text49 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line135 {
+  width: 206px;
+  height: 1px;
+  align-self: stretch;
+}
+ 
+.home-frame195 {
+  gap: 8px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-frame2223 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text50 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text51 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text52 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2224 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text53 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text54 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame2318 {
+  gap: 11px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text55 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text56 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group36 {
+  top: 54px;
+  left: 32px;
+  width: 349px;
+  height: 245px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-frame27 {
+  gap: 16px;
+  top: 38px;
+  left: 0px;
+  width: 63px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2225 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse236 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse216 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse226 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse206 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3634 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2319 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse256 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse266 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse246 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1929 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3635 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2417 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse296 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse306 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse286 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1930 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3636 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame256 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3319 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3419 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3219 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1931 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3637 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2619 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3320 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3420 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3220 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1932 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3638 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame282 {
+  gap: 16px;
+  top: 143px;
+  left: 177px;
+  width: 63px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2226 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse237 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse217 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse227 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse207 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3639 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2320 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse257 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse267 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse247 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1933 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3640 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2418 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse297 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse307 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse287 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1934 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3641 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame257 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3321 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3421 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3221 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1935 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3642 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2620 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3322 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3422 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3222 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1936 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3643 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-rectangle23 {
+  top: 193px;
+  left: 297px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-rectangle24 {
+  top: 0px;
+  left: 227px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-projects {
+  top: 890px;
+  left: 171px;
+  width: 1027px;
+  height: 518px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-frame51 {
+  gap: 16px;
+  top: 90px;
+  left: 2px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.home-project {
+  display: flex;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-rectangle221 {
+  width: 331px;
+  height: 201px;
+  box-sizing: content-box;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+ 
+.home-frame391 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text57 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text58 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text59 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text60 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame34 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+}
+ 
+.home-text61 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text62 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame52 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-frame61 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px;
+  align-items: flex-start;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text63 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame7 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text64 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group3 {
+  display: flex;
+  overflow: hidden;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-rectangle222 {
+  width: 331px;
+  height: 201px;
+  box-sizing: content-box;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+ 
+.home-frame392 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text65 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text66 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text67 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text68 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame401 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text69 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text70 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text71 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text72 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame35 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+}
+ 
+.home-text73 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text74 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame53 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-frame62 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px;
+  align-items: flex-start;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text75 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group4 {
+  display: flex;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.home-rectangle223 {
+  width: 331px;
+  height: 201px;
+  box-sizing: content-box;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+}
+ 
+.home-frame393 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-text76 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text77 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text78 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame37 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  flex-direction: column;
+}
+ 
+.home-text79 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text80 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame54 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-frame63 {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px;
+  align-items: flex-start;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text81 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group42 {
+  top: 0px;
+  left: 0px;
+  width: 1027px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-h2 {
+  gap: 16px;
+  top: 0px;
+  left: 0px;
+  width: 701px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.home-frame2621 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text82 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-line7-stroke5 {
+  width: 511px;
+  height: 1px;
+  flex-grow: 1;
+}
+ 
+.home-text83 {
+  top: 10px;
+  left: 911px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-first {
+  top: 123px;
+  left: 171px;
+  width: 1024px;
+  height: 423px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-group45 {
+  top: 74px;
+  left: 0px;
+  width: 537px;
+  height: 227px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-text84 {
+  color: rgba(255, 255, 255, 1);
+  width: 537px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text85 {
+  color: var(--dl-color-default-white);
+}
+ 
+.home-text86 {
+  color: var(--dl-color-default-primary);
+}
+ 
+.home-text87 {
+  color: var(--dl-color-default-white);
+}
+ 
+.home-text90 {
+  top: 119px;
+  color: var(--dl-color-default-gray);
+  width: 463px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-button2 {
+  gap: 10px;
+  top: 190px;
+  left: 0px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text91 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group46 {
+  top: 0px;
+  left: 567px;
+  width: 457px;
+  height: 386px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-image2 {
+  top: 0px;
+  left: 0px;
+  width: 457px;
+  height: 386px;
+  position: absolute;
+}
+ 
+.home-dots {
+  gap: 16px;
+  top: 246px;
+  left: 357px;
+  width: 84px;
+  height: 84px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.home-frame2227 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse238 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse218 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse228 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse208 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3644 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2321 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse258 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse268 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse248 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1937 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3645 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2419 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse298 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse308 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse288 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1938 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3646 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame258 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3323 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3423 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3223 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1939 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3647 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame2622 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.home-ellipse3324 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3424 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3224 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse1940 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-ellipse3648 {
+  width: 4px;
+  height: 4px;
+}
+ 
+.home-frame58 {
+  gap: 10px;
+  top: 386px;
+  left: 586px;
+  width: 402px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: var(--dl-color-default-background);
+}
+ 
+.home-rectangle27 {
+  width: 16px;
+  height: 16px;
+  border-color: rgba(199, 120, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text92 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-quote {
+  gap: 10px;
+  top: 658px;
+  left: 326px;
+  width: 712px;
+  display: flex;
+  padding: 32px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: var(--dl-color-default-background);
+}
+ 
+.home-text93 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame493 {
+  top: -14px;
+  left: 11px;
+  width: 41px;
+  height: 29px;
+  z-index: 1;
+  position: absolute;
+}
+ 
+.home-frame494 {
+  gap: 10px;
+  display: flex;
+  padding: 16px;
+  z-index: 2;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-text94 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame50 {
+  top: 80px;
+  left: 654px;
+  width: 41px;
+  height: 29px;
+  z-index: 3;
+  position: absolute;
+}
+ 
+.home-header {
+  gap: 555px;
+  top: 0px;
+  left: 171px;
+  width: 1024px;
+  display: flex;
+  padding: 32px 0 8px;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: var(--dl-color-default-background);
+}
+ 
+.home-frame402 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+ 
+.home-logo2 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.home-union2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.home-text95 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-frame1 {
+  gap: 32px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-headerlink1 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text96 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-headerlink2 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text97 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-headerlink3 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text98 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-headerlink4 {
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.home-text99 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-languageswitcher {
+  gap: 4px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.home-text100 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-group58 {
+  width: 10px;
+  height: 5px;
+  display: flex;
+  z-index: 1;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.home-line14 {
+  top: 1.0677095474420639e-7px;
+  left: 0px;
+  width: 7px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.home-line15 {
+  top: 5px;
+  left: 5px;
+  width: 7px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.home-frame597 {
+  gap: 8px;
+  height: 1px;
+  display: flex;
+  opacity: 0.00;
+  padding: 8px;
+  z-index: 2;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(171, 178, 191, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+ 
+.home-text101 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-text102 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.home-media {
+  top: 0px;
+  left: 17px;
+  width: 32px;
+  height: 311px;
+  position: absolute;
+}
