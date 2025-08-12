@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -16,135 +17,135 @@ const About = (props) => {
             <div className="about-frame2210">
               <img
                 alt="Ellipse23I451"
-                src="/ellipse23i451-xhnc-200h.png"
+                src="/ellipse23i451-0amn-200h.png"
                 className="about-ellipse231"
               />
               <img
                 alt="Ellipse21I451"
-                src="/ellipse21i451-y2e-200h.png"
+                src="/ellipse21i451-giy-200h.png"
                 className="about-ellipse211"
               />
               <img
                 alt="Ellipse22I451"
-                src="/ellipse22i451-79di-200h.png"
+                src="/ellipse22i451-dpcq-200h.png"
                 className="about-ellipse221"
               />
               <img
                 alt="Ellipse20I451"
-                src="/ellipse20i451-db9-200h.png"
+                src="/ellipse20i451-f8gg-200h.png"
                 className="about-ellipse201"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-bddr-200h.png"
+                src="/ellipse36i451-0jm-200h.png"
                 className="about-ellipse3610"
               />
             </div>
             <div className="about-frame2310">
               <img
                 alt="Ellipse25I451"
-                src="/ellipse25i451-2zu-200w.png"
+                src="/ellipse25i451-kzer-200w.png"
                 className="about-ellipse251"
               />
               <img
                 alt="Ellipse26I451"
-                src="/ellipse26i451-0w56-200h.png"
+                src="/ellipse26i451-0gv7-200h.png"
                 className="about-ellipse261"
               />
               <img
                 alt="Ellipse24I451"
-                src="/ellipse24i451-5db-200h.png"
+                src="/ellipse24i451-zxc-200h.png"
                 className="about-ellipse241"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-prsf-200h.png"
+                src="/ellipse19i451-fj1-200h.png"
                 className="about-ellipse1910"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-w4l-200h.png"
+                src="/ellipse36i451-3dgg-200h.png"
                 className="about-ellipse3611"
               />
             </div>
             <div className="about-frame241">
               <img
                 alt="Ellipse29I451"
-                src="/ellipse29i451-xxhn-200w.png"
+                src="/ellipse29i451-6vkl-200w.png"
                 className="about-ellipse291"
               />
               <img
                 alt="Ellipse30I451"
-                src="/ellipse30i451-3oof-200h.png"
+                src="/ellipse30i451-61hi-200h.png"
                 className="about-ellipse301"
               />
               <img
                 alt="Ellipse28I451"
-                src="/ellipse28i451-qt8u-200h.png"
+                src="/ellipse28i451-q0t-200h.png"
                 className="about-ellipse281"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-ai5k-200h.png"
+                src="/ellipse19i451-n6lf-200h.png"
                 className="about-ellipse1911"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-0np-200h.png"
+                src="/ellipse36i451-s80e-200h.png"
                 className="about-ellipse3612"
               />
             </div>
             <div className="about-frame251">
               <img
                 alt="Ellipse33I451"
-                src="/ellipse33i451-bqjq-200w.png"
+                src="/ellipse33i451-brcd-200w.png"
                 className="about-ellipse331"
               />
               <img
                 alt="Ellipse34I451"
-                src="/ellipse34i451-f6t-200h.png"
+                src="/ellipse34i451-z0tc-200h.png"
                 className="about-ellipse341"
               />
               <img
                 alt="Ellipse32I451"
-                src="/ellipse32i451-sqlm-200h.png"
+                src="/ellipse32i451-sb5-200h.png"
                 className="about-ellipse321"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-wzo-200h.png"
+                src="/ellipse19i451-pb1-200h.png"
                 className="about-ellipse1912"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-pn3o-200h.png"
+                src="/ellipse36i451-5wro-200h.png"
                 className="about-ellipse3613"
               />
             </div>
             <div className="about-frame261">
               <img
                 alt="Ellipse33I451"
-                src="/ellipse33i451-cd3-200h.png"
+                src="/ellipse33i451-fxqr-200h.png"
                 className="about-ellipse332"
               />
               <img
                 alt="Ellipse34I451"
-                src="/ellipse34i451-5t7o-200h.png"
+                src="/ellipse34i451-cvol-200h.png"
                 className="about-ellipse342"
               />
               <img
                 alt="Ellipse32I451"
-                src="/ellipse32i451-9vsr-200h.png"
+                src="/ellipse32i451-lc5r-200h.png"
                 className="about-ellipse322"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-tvcgb-200h.png"
+                src="/ellipse19i451-ty4x-200h.png"
                 className="about-ellipse1913"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-ufwb-200h.png"
+                src="/ellipse36i451-lkq-200h.png"
                 className="about-ellipse3614"
               />
             </div>
@@ -153,135 +154,135 @@ const About = (props) => {
             <div className="about-frame2211">
               <img
                 alt="Ellipse23I451"
-                src="/ellipse23i451-0y3k-200h.png"
+                src="/ellipse23i451-n34-200h.png"
                 className="about-ellipse232"
               />
               <img
                 alt="Ellipse21I451"
-                src="/ellipse21i451-jv6s-200h.png"
+                src="/ellipse21i451-nj3t-200h.png"
                 className="about-ellipse212"
               />
               <img
                 alt="Ellipse22I451"
-                src="/ellipse22i451-hrpc-200h.png"
+                src="/ellipse22i451-889r-200h.png"
                 className="about-ellipse222"
               />
               <img
                 alt="Ellipse20I451"
-                src="/ellipse20i451-6eb8-200h.png"
+                src="/ellipse20i451-q58-200h.png"
                 className="about-ellipse202"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-uen-200h.png"
+                src="/ellipse36i451-qtao-200h.png"
                 className="about-ellipse3615"
               />
             </div>
             <div className="about-frame2311">
               <img
                 alt="Ellipse25I451"
-                src="/ellipse25i451-mhrk-200w.png"
+                src="/ellipse25i451-spzd-200w.png"
                 className="about-ellipse252"
               />
               <img
                 alt="Ellipse26I451"
-                src="/ellipse26i451-979f-200h.png"
+                src="/ellipse26i451-pt1-200h.png"
                 className="about-ellipse262"
               />
               <img
                 alt="Ellipse24I451"
-                src="/ellipse24i451-62k-200w.png"
+                src="/ellipse24i451-v8iya-200w.png"
                 className="about-ellipse242"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-w98-200h.png"
+                src="/ellipse19i451-36x6-200h.png"
                 className="about-ellipse1914"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-hp6-200h.png"
+                src="/ellipse36i451-qmb9-200h.png"
                 className="about-ellipse3616"
               />
             </div>
             <div className="about-frame242">
               <img
                 alt="Ellipse29I451"
-                src="/ellipse29i451-cfnr-200w.png"
+                src="/ellipse29i451-erto-200w.png"
                 className="about-ellipse292"
               />
               <img
                 alt="Ellipse30I451"
-                src="/ellipse30i451-15y-200h.png"
+                src="/ellipse30i451-6o8a-200h.png"
                 className="about-ellipse302"
               />
               <img
                 alt="Ellipse28I451"
-                src="/ellipse28i451-xukl-200w.png"
+                src="/ellipse28i451-wa3x-200w.png"
                 className="about-ellipse282"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-7ord-200h.png"
+                src="/ellipse19i451-1v5-200h.png"
                 className="about-ellipse1915"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-yx09-200h.png"
+                src="/ellipse36i451-cvim-200h.png"
                 className="about-ellipse3617"
               />
             </div>
             <div className="about-frame252">
               <img
                 alt="Ellipse33I451"
-                src="/ellipse33i451-c5oc-200w.png"
+                src="/ellipse33i451-bfqn-200w.png"
                 className="about-ellipse333"
               />
               <img
                 alt="Ellipse34I451"
-                src="/ellipse34i451-wtrm-200h.png"
+                src="/ellipse34i451-iau-200h.png"
                 className="about-ellipse343"
               />
               <img
                 alt="Ellipse32I451"
-                src="/ellipse32i451-sp4-200w.png"
+                src="/ellipse32i451-vr-200w.png"
                 className="about-ellipse323"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-xb8l-200h.png"
+                src="/ellipse19i451-e56a-200h.png"
                 className="about-ellipse1916"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-d7ct-200h.png"
+                src="/ellipse36i451-9bc-200h.png"
                 className="about-ellipse3618"
               />
             </div>
             <div className="about-frame262">
               <img
                 alt="Ellipse33I451"
-                src="/ellipse33i451-0pkm-200h.png"
+                src="/ellipse33i451-7yct-200h.png"
                 className="about-ellipse334"
               />
               <img
                 alt="Ellipse34I451"
-                src="/ellipse34i451-2ysb-200h.png"
+                src="/ellipse34i451-gx8k-200h.png"
                 className="about-ellipse344"
               />
               <img
                 alt="Ellipse32I451"
-                src="/ellipse32i451-z12-200h.png"
+                src="/ellipse32i451-f7hr-200h.png"
                 className="about-ellipse324"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-96i-200h.png"
+                src="/ellipse19i451-vxen-200h.png"
                 className="about-ellipse1917"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-ih8c-200h.png"
+                src="/ellipse36i451-8nqs-200h.png"
                 className="about-ellipse3619"
               />
             </div>
@@ -290,127 +291,127 @@ const About = (props) => {
             <div className="about-frame2212">
               <img
                 alt="Ellipse23I451"
-                src="/ellipse23i451-kada-200h.png"
+                src="/ellipse23i451-jqjo-200h.png"
                 className="about-ellipse233"
               />
               <img
                 alt="Ellipse21I451"
-                src="/ellipse21i451-jmct-200h.png"
+                src="/ellipse21i451-v2h7-200h.png"
                 className="about-ellipse213"
               />
               <img
                 alt="Ellipse22I451"
-                src="/ellipse22i451-4hti-200h.png"
+                src="/ellipse22i451-p0os-200h.png"
                 className="about-ellipse223"
               />
               <img
                 alt="Ellipse20I451"
-                src="/ellipse20i451-0f3-200h.png"
+                src="/ellipse20i451-0z8-200h.png"
                 className="about-ellipse203"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-upkc-200h.png"
+                src="/ellipse36i451-vkvp-200h.png"
                 className="about-ellipse3620"
               />
             </div>
             <div className="about-frame2312">
               <img
                 alt="Ellipse25I451"
-                src="/ellipse25i451-356n-200h.png"
+                src="/ellipse25i451-hz2f-200h.png"
                 className="about-ellipse253"
               />
               <img
                 alt="Ellipse26I451"
-                src="/ellipse26i451-l1ff-200h.png"
+                src="/ellipse26i451-ldp2-200h.png"
                 className="about-ellipse263"
               />
               <img
                 alt="Ellipse24I451"
-                src="/ellipse24i451-fdm9-200h.png"
+                src="/ellipse24i451-i9l-200h.png"
                 className="about-ellipse243"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-ckdg-200h.png"
+                src="/ellipse19i451-olx9-200h.png"
                 className="about-ellipse1918"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-blz-200h.png"
+                src="/ellipse36i451-dkn-200h.png"
                 className="about-ellipse3621"
               />
             </div>
             <div className="about-frame243">
               <img
                 alt="Ellipse29I451"
-                src="/ellipse29i451-0jxc-200h.png"
+                src="/ellipse29i451-qh8q-200h.png"
                 className="about-ellipse293"
               />
               <img
                 alt="Ellipse30I451"
-                src="/ellipse30i451-x67s-200h.png"
+                src="/ellipse30i451-xmeh-200h.png"
                 className="about-ellipse303"
               />
               <img
                 alt="Ellipse28I451"
-                src="/ellipse28i451-awhu-200h.png"
+                src="/ellipse28i451-zl2-200h.png"
                 className="about-ellipse283"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-dkp-200h.png"
+                src="/ellipse19i451-4ega-200h.png"
                 className="about-ellipse1919"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-cn59-200h.png"
+                src="/ellipse36i451-i7do-200h.png"
                 className="about-ellipse3622"
               />
             </div>
             <div className="about-frame263">
               <img
                 alt="Ellipse33I451"
-                src="/ellipse33i451-txrj-200h.png"
+                src="/ellipse33i451-amtm-200h.png"
                 className="about-ellipse335"
               />
               <img
                 alt="Ellipse34I451"
-                src="/ellipse34i451-4wus-200h.png"
+                src="/ellipse34i451-5hl-200h.png"
                 className="about-ellipse345"
               />
               <img
                 alt="Ellipse32I451"
-                src="/ellipse32i451-6snu-200h.png"
+                src="/ellipse32i451-vsgu-200h.png"
                 className="about-ellipse325"
               />
               <img
                 alt="Ellipse19I451"
-                src="/ellipse19i451-cn3e-200h.png"
+                src="/ellipse19i451-2uzl-200h.png"
                 className="about-ellipse1920"
               />
               <img
                 alt="Ellipse36I451"
-                src="/ellipse36i451-obzl-200h.png"
+                src="/ellipse36i451-mcv-200h.png"
                 className="about-ellipse3623"
               />
             </div>
           </div>
           <img
             alt="Rectangle254510"
-            src="/rectangle254510-phz-200w.png"
+            src="/rectangle254510-qpt-200w.png"
             className="about-rectangle251"
           />
           <img
             alt="Rectangle254510"
-            src="/rectangle254510-ghkn-200w.png"
+            src="/rectangle254510-3uf-200w.png"
             className="about-rectangle252"
           />
         </div>
         <div className="about-footer">
           <img
             alt="Line11I451"
-            src="/line11i451-nh5.svg"
+            src="/line11i451-s3pm.svg"
             className="about-line11"
           />
           <div className="about-frame491">
@@ -421,7 +422,7 @@ const About = (props) => {
                     <div className="about-logo1">
                       <img
                         alt="UnionI451"
-                        src="/unioni451-clk9.svg"
+                        src="/unioni451-0f4t.svg"
                         className="about-union1"
                       />
                     </div>
@@ -440,17 +441,17 @@ const About = (props) => {
                 <div className="about-group22">
                   <img
                     alt="GithubI451"
-                    src="/githubi451-v3by.svg"
+                    src="/githubi451-ns84.svg"
                     className="about-github"
                   />
                   <img
                     alt="FigmaI451"
-                    src="/figmai451-ga7.svg"
+                    src="/figmai451-o6h9.svg"
                     className="about-figma"
                   />
                   <img
                     alt="DiscordI451"
-                    src="/discordi451-zrdp.svg"
+                    src="/discordi451-u4hw.svg"
                     className="about-discord"
                   />
                 </div>
@@ -469,142 +470,142 @@ const About = (props) => {
           <div className="about-group50">
             <img
               alt="jcgellidonE3NUmCScugounsplashremovebgpreview115215"
-              src="/jcgellidone3numcscugounsplashremovebgpreview115215-m3-600h.png"
+              src="/jcgellidone3numcscugounsplashremovebgpreview115215-0tvo-600h.png"
               className="about-jcgellidon-e3n-um-c-scugounsplashremovebgpreview11"
             />
             <div className="about-frame29">
               <div className="about-frame2213">
                 <img
                   alt="Ellipse23I521"
-                  src="/ellipse23i521-apf7-200h.png"
+                  src="/ellipse23i521-g2de-200h.png"
                   className="about-ellipse234"
                 />
                 <img
                   alt="Ellipse21I521"
-                  src="/ellipse21i521-4lw9-200h.png"
+                  src="/ellipse21i521-9bce-200h.png"
                   className="about-ellipse214"
                 />
                 <img
                   alt="Ellipse22I521"
-                  src="/ellipse22i521-w9ngh-200h.png"
+                  src="/ellipse22i521-yl2q-200h.png"
                   className="about-ellipse224"
                 />
                 <img
                   alt="Ellipse20I521"
-                  src="/ellipse20i521-gznj-200h.png"
+                  src="/ellipse20i521-qswu-200h.png"
                   className="about-ellipse204"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-r6aj-200h.png"
+                  src="/ellipse36i521-vmjq-200h.png"
                   className="about-ellipse3624"
                 />
               </div>
               <div className="about-frame2314">
                 <img
                   alt="Ellipse25I521"
-                  src="/ellipse25i521-m6pe-200h.png"
+                  src="/ellipse25i521-lch1-200h.png"
                   className="about-ellipse254"
                 />
                 <img
                   alt="Ellipse26I521"
-                  src="/ellipse26i521-601a-200h.png"
+                  src="/ellipse26i521-hfge-200h.png"
                   className="about-ellipse264"
                 />
                 <img
                   alt="Ellipse24I521"
-                  src="/ellipse24i521-z6ng-200h.png"
+                  src="/ellipse24i521-1756-200h.png"
                   className="about-ellipse244"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-we83-200h.png"
+                  src="/ellipse19i521-j1xp-200h.png"
                   className="about-ellipse1921"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-iq1-200h.png"
+                  src="/ellipse36i521-v1s-200h.png"
                   className="about-ellipse3625"
                 />
               </div>
               <div className="about-frame245">
                 <img
                   alt="Ellipse29I521"
-                  src="/ellipse29i521-j8i3-200h.png"
+                  src="/ellipse29i521-6m2t-200h.png"
                   className="about-ellipse294"
                 />
                 <img
                   alt="Ellipse30I521"
-                  src="/ellipse30i521-hgi7-200h.png"
+                  src="/ellipse30i521-2tia-200h.png"
                   className="about-ellipse304"
                 />
                 <img
                   alt="Ellipse28I521"
-                  src="/ellipse28i521-ojng-200h.png"
+                  src="/ellipse28i521-eox-200h.png"
                   className="about-ellipse284"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-e63-200h.png"
+                  src="/ellipse19i521-4ilr-200h.png"
                   className="about-ellipse1922"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-otj-200h.png"
+                  src="/ellipse36i521-yqti-200h.png"
                   className="about-ellipse3626"
                 />
               </div>
               <div className="about-frame253">
                 <img
                   alt="Ellipse33I521"
-                  src="/ellipse33i521-reok-200h.png"
+                  src="/ellipse33i521-3zbfb-200h.png"
                   className="about-ellipse336"
                 />
                 <img
                   alt="Ellipse34I521"
-                  src="/ellipse34i521-6u4-200h.png"
+                  src="/ellipse34i521-whb-200h.png"
                   className="about-ellipse346"
                 />
                 <img
                   alt="Ellipse32I521"
-                  src="/ellipse32i521-qs8o-200h.png"
+                  src="/ellipse32i521-vbek-200h.png"
                   className="about-ellipse326"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-g9e7-200h.png"
+                  src="/ellipse19i521-djix-200h.png"
                   className="about-ellipse1923"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-ff4p-200h.png"
+                  src="/ellipse36i521-2prf-200h.png"
                   className="about-ellipse3627"
                 />
               </div>
               <div className="about-frame264">
                 <img
                   alt="Ellipse33I521"
-                  src="/ellipse33i521-09g7-200h.png"
+                  src="/ellipse33i521-i787-200h.png"
                   className="about-ellipse337"
                 />
                 <img
                   alt="Ellipse34I521"
-                  src="/ellipse34i521-m4ko-200h.png"
+                  src="/ellipse34i521-mm4c-200h.png"
                   className="about-ellipse347"
                 />
                 <img
                   alt="Ellipse32I521"
-                  src="/ellipse32i521-mb5j-200h.png"
+                  src="/ellipse32i521-n8t8-200h.png"
                   className="about-ellipse327"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-ab1-200h.png"
+                  src="/ellipse19i521-lyj-200h.png"
                   className="about-ellipse1924"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-sm6o-200h.png"
+                  src="/ellipse36i521-mpas-200h.png"
                   className="about-ellipse3628"
                 />
               </div>
@@ -613,115 +614,115 @@ const About = (props) => {
               <div className="about-frame2214">
                 <img
                   alt="Ellipse23I521"
-                  src="/ellipse23i521-upqj-200h.png"
+                  src="/ellipse23i521-flp-200h.png"
                   className="about-ellipse235"
                 />
                 <img
                   alt="Ellipse21I521"
-                  src="/ellipse21i521-qlr-200h.png"
+                  src="/ellipse21i521-oinr-200h.png"
                   className="about-ellipse215"
                 />
                 <img
                   alt="Ellipse22I521"
-                  src="/ellipse22i521-7cnc-200h.png"
+                  src="/ellipse22i521-gcu-200h.png"
                   className="about-ellipse225"
                 />
                 <img
                   alt="Ellipse20I521"
-                  src="/ellipse20i521-gm6b-200h.png"
+                  src="/ellipse20i521-emgu-200h.png"
                   className="about-ellipse205"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-1g79-200h.png"
+                  src="/ellipse36i521-xvtn-200h.png"
                   className="about-ellipse3629"
                 />
               </div>
               <div className="about-frame2315">
                 <img
                   alt="Ellipse25I521"
-                  src="/ellipse25i521-ah7-200w.png"
+                  src="/ellipse25i521-1xu-200w.png"
                   className="about-ellipse255"
                 />
                 <img
                   alt="Ellipse26I521"
-                  src="/ellipse26i521-chpf-200w.png"
+                  src="/ellipse26i521-qax-200w.png"
                   className="about-ellipse265"
                 />
                 <img
                   alt="Ellipse24I521"
-                  src="/ellipse24i521-alys-200w.png"
+                  src="/ellipse24i521-dap-200w.png"
                   className="about-ellipse245"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-nl2e-200w.png"
+                  src="/ellipse19i521-whck-200w.png"
                   className="about-ellipse1925"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-bcse-200w.png"
+                  src="/ellipse36i521-7wr-200w.png"
                   className="about-ellipse3630"
                 />
               </div>
               <div className="about-frame246">
                 <img
                   alt="Ellipse29I521"
-                  src="/ellipse29i521-3w8q-200w.png"
+                  src="/ellipse29i521-0ii-200w.png"
                   className="about-ellipse295"
                 />
                 <img
                   alt="Ellipse30I521"
-                  src="/ellipse30i521-de0j-200w.png"
+                  src="/ellipse30i521-c2r7-200w.png"
                   className="about-ellipse305"
                 />
                 <img
                   alt="Ellipse28I521"
-                  src="/ellipse28i521-pk8r-200w.png"
+                  src="/ellipse28i521-uju-200w.png"
                   className="about-ellipse285"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-nyb-200w.png"
+                  src="/ellipse19i521-xid8-200w.png"
                   className="about-ellipse1926"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-s9t-200w.png"
+                  src="/ellipse36i521-2v5f-200w.png"
                   className="about-ellipse3631"
                 />
               </div>
               <div className="about-frame265">
                 <img
                   alt="Ellipse33I521"
-                  src="/ellipse33i521-8fn-200h.png"
+                  src="/ellipse33i521-pc04-200h.png"
                   className="about-ellipse338"
                 />
                 <img
                   alt="Ellipse34I521"
-                  src="/ellipse34i521-4k8-200h.png"
+                  src="/ellipse34i521-4i1f-200h.png"
                   className="about-ellipse348"
                 />
                 <img
                   alt="Ellipse32I521"
-                  src="/ellipse32i521-yh7-200h.png"
+                  src="/ellipse32i521-z4ff-200h.png"
                   className="about-ellipse328"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-fn7n-200h.png"
+                  src="/ellipse19i521-eab9-200h.png"
                   className="about-ellipse1927"
                 />
                 <img
                   alt="Ellipse36I521"
-                  src="/ellipse36i521-ivjk-200h.png"
+                  src="/ellipse36i521-2d4k-200h.png"
                   className="about-ellipse3632"
                 />
               </div>
             </div>
             <img
               alt="Line7Stroke5215"
-              src="/line7stroke5215-p8z.svg"
+              src="/line7stroke5215-oxgi.svg"
               className="about-line7-stroke"
             />
           </div>
@@ -759,7 +760,7 @@ const About = (props) => {
               </div>
               <img
                 alt="Line13I521"
-                src="/line13i521-z8o9.svg"
+                src="/line13i521-b199.svg"
                 className="about-line131"
               />
               <div className="about-frame191">
@@ -779,7 +780,7 @@ const About = (props) => {
               </div>
               <img
                 alt="Line13I521"
-                src="/line13i521-gpvx.svg"
+                src="/line13i521-3z8.svg"
                 className="about-line132"
               />
               <div className="about-frame192">
@@ -798,7 +799,7 @@ const About = (props) => {
               </div>
               <img
                 alt="Line13I521"
-                src="/line13i521-o3g.svg"
+                src="/line13i521-a7k5.svg"
                 className="about-line133"
               />
               <div className="about-frame193">
@@ -824,7 +825,7 @@ const About = (props) => {
               </div>
               <img
                 alt="Line13I521"
-                src="/line13i521-ffft.svg"
+                src="/line13i521-ce4.svg"
                 className="about-line134"
               />
               <div className="about-frame194">
@@ -843,13 +844,13 @@ const About = (props) => {
               </div>
               <img
                 alt="Line13I521"
-                src="/line13i521-glse.svg"
+                src="/line13i521-w6l.svg"
                 className="about-line135"
               />
               <div className="about-frame195">
                 <div className="about-frame2223">
-                  <span className="about-text48">React</span>
-                  <span className="about-text49">Vue</span>
+                  <span className="about-text48">Product</span>
+                  <span className="about-text49">Strategy</span>
                 </div>
                 <div className="about-frame2224">
                   <span className="about-text50">Ruby on Rails</span>
@@ -882,7 +883,7 @@ const About = (props) => {
               <div className="about-frame58">
                 <span className="about-text55">I like tacos and pho</span>
               </div>
-              <div className="about-frame571">
+              <div className="about-frame57">
                 <span className="about-text56">
                   <span className="about-text57">
                     I want to travel to
@@ -892,7 +893,7 @@ const About = (props) => {
                       }}
                     />
                   </span>
-                  <span className="about-text58">Egypt</span>
+                  <span className="about-text58">Nigeria</span>
                   <span className="about-text59">
                     ,
                     <span
@@ -907,99 +908,94 @@ const About = (props) => {
                 </span>
               </div>
             </div>
-            <div className="about-frame572">
-              <div className="about-frame55">
-                <span className="about-text63">My favorite movie is k;nmn</span>
-              </div>
-            </div>
           </div>
           <div className="about-group53">
             <div className="about-frame37">
               <div className="about-frame2225">
                 <img
                   alt="Ellipse23I521"
-                  src="/ellipse23i521-it6r-200h.png"
+                  src="/ellipse23i521-h6zn-200h.png"
                   className="about-ellipse236"
                 />
                 <img
                   alt="Ellipse21I521"
-                  src="/ellipse21i521-gq4-200h.png"
+                  src="/ellipse21i521-pl3s-200h.png"
                   className="about-ellipse216"
                 />
                 <img
                   alt="Ellipse22I521"
-                  src="/ellipse22i521-ht6-200h.png"
+                  src="/ellipse22i521-gfbi-200h.png"
                   className="about-ellipse226"
                 />
                 <img
                   alt="Ellipse20I521"
-                  src="/ellipse20i521-57t9-200h.png"
+                  src="/ellipse20i521-6lkd-200h.png"
                   className="about-ellipse206"
                 />
               </div>
               <div className="about-frame2319">
                 <img
                   alt="Ellipse25I521"
-                  src="/ellipse25i521-48kq-200h.png"
+                  src="/ellipse25i521-cojo-200h.png"
                   className="about-ellipse256"
                 />
                 <img
                   alt="Ellipse26I521"
-                  src="/ellipse26i521-oq5o-200h.png"
+                  src="/ellipse26i521-uc5d-200h.png"
                   className="about-ellipse266"
                 />
                 <img
                   alt="Ellipse24I521"
-                  src="/ellipse24i521-i95-200h.png"
+                  src="/ellipse24i521-non7-200h.png"
                   className="about-ellipse246"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-5wpsc-200h.png"
+                  src="/ellipse19i521-yoz-200h.png"
                   className="about-ellipse1928"
                 />
               </div>
               <div className="about-frame249">
                 <img
                   alt="Ellipse29I521"
-                  src="/ellipse29i521-9ir-200h.png"
+                  src="/ellipse29i521-ocea-200h.png"
                   className="about-ellipse296"
                 />
                 <img
                   alt="Ellipse30I521"
-                  src="/ellipse30i521-kmom-200h.png"
+                  src="/ellipse30i521-u58p-200h.png"
                   className="about-ellipse306"
                 />
                 <img
                   alt="Ellipse28I521"
-                  src="/ellipse28i521-coic-200h.png"
+                  src="/ellipse28i521-qiq-200h.png"
                   className="about-ellipse286"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-54ms-200h.png"
+                  src="/ellipse19i521-anj-200h.png"
                   className="about-ellipse1929"
                 />
               </div>
               <div className="about-frame255">
                 <img
                   alt="Ellipse33I521"
-                  src="/ellipse33i521-3o9-200h.png"
+                  src="/ellipse33i521-ojac-200h.png"
                   className="about-ellipse339"
                 />
                 <img
                   alt="Ellipse34I521"
-                  src="/ellipse34i521-5bkb-200h.png"
+                  src="/ellipse34i521-oml-200h.png"
                   className="about-ellipse349"
                 />
                 <img
                   alt="Ellipse32I521"
-                  src="/ellipse32i521-be-200h.png"
+                  src="/ellipse32i521-3ke-200h.png"
                   className="about-ellipse329"
                 />
                 <img
                   alt="Ellipse19I521"
-                  src="/ellipse19i521-00c8-200h.png"
+                  src="/ellipse19i521-bb4-200h.png"
                   className="about-ellipse1930"
                 />
               </div>
@@ -1007,12 +1003,12 @@ const About = (props) => {
             <div className="about-logo2">
               <img
                 alt="Union5218"
-                src="/union5218-i03r.svg"
+                src="/union5218-xjlq.svg"
                 className="about-union2"
               />
               <img
                 alt="Union5218"
-                src="/union5218-19e.svg"
+                src="/union5218-3b1y.svg"
                 className="about-union3"
               />
             </div>
@@ -1023,49 +1019,57 @@ const About = (props) => {
             <div className="about-logo3">
               <img
                 alt="UnionI451"
-                src="/unioni451-cmsa.svg"
+                src="/unioni451-rkcm.svg"
                 className="about-union4"
               />
             </div>
-            <span className="about-text64">LeoX</span>
+            <span className="about-text63">LeoX</span>
           </div>
           <div className="about-frame1">
             <div className="about-headerlink1">
-              <span className="about-text65">home</span>
+              <Link to="/" className="about-text64">
+                home
+              </Link>
             </div>
             <div className="about-headerlink2">
-              <span className="about-text66">works</span>
+              <Link to="/projects" className="about-text65">
+                works
+              </Link>
             </div>
             <div className="about-headerlink3">
-              <span className="about-text67">about-me</span>
+              <Link to="/about" className="about-text66">
+                about-me
+              </Link>
             </div>
             <div className="about-headerlink4">
-              <span className="about-text68">contacts</span>
+              <Link to="/contacts" className="about-text67">
+                contacts
+              </Link>
             </div>
             <div className="about-languageswitcher">
-              <span className="about-text69">EN</span>
+              <span className="about-text68">EN</span>
               <div className="about-group58">
                 <img
                   alt="Line14I451"
-                  src="/line14i451-0ny43.svg"
+                  src="/line14i451-ef3h.svg"
                   className="about-line14"
                 />
                 <img
                   alt="Line15I451"
-                  src="/line15i451-4e3.svg"
+                  src="/line15i451-ako.svg"
                   className="about-line15"
                 />
               </div>
               <div className="about-frame597">
-                <span className="about-text70">RU</span>
-                <span className="about-text71">UA</span>
+                <span className="about-text69">RU</span>
+                <span className="about-text70">UA</span>
               </div>
             </div>
           </div>
         </div>
         <img
           alt="media2301"
-          src="/media2301-42y4.svg"
+          src="/media2301-182i.svg"
           className="about-media"
         />
       </div>

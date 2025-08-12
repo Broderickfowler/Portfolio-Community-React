@@ -9,12 +9,13 @@
  
 .contacts-contacts {
   width: 100%;
-  height: 790px;
+  height: 1020px;
   display: flex;
   overflow: hidden;
   position: relative;
-  align-items: flex-start;
+  align-items: flex-end;
   flex-shrink: 0;
+  justify-content: center;
   background-color: var(--dl-color-default-background);
 }
  
@@ -22,7 +23,7 @@
   top: 256px;
   left: -77px;
   width: 1530px;
-  height: 1237px;
+  height: 522px;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -573,177 +574,19 @@
   gap: 32px;
   top: 582px;
   left: 0px;
-  width: 1366px;
+  width: 1200px;
   display: flex;
-  padding: 0 0 32px;
   position: absolute;
   align-items: center;
+  padding-top: 0 0 32px;
+  padding-left: 0 0 32px;
+  padding-right: 0 0 32px;
   flex-direction: column;
 }
  
 .contacts-line11 {
   width: 1366px;
   height: 1px;
-}
- 
-.contacts-frame491 {
-  gap: 48px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
- 
-.contacts-frame492 {
-  gap: 437px;
-  width: 1025px;
-  display: flex;
-  align-items: flex-start;
-  flex-shrink: 0;
-  justify-content: space-between;
-}
- 
-.contacts-frame244 {
-  gap: 16px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
- 
-.contacts-frame591 {
-  gap: 24px;
-  display: flex;
-  align-self: stretch;
-  align-items: center;
-  flex-shrink: 0;
-}
- 
-.contacts-frame16 {
-  gap: 9px;
-  display: flex;
-  align-items: center;
-}
- 
-.contacts-logo1 {
-  width: 16px;
-  height: 16px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
- 
-.contacts-union1 {
-  top: 0px;
-  left: 0px;
-  width: 16px;
-  height: 16px;
-  position: absolute;
-}
- 
-.contacts-text10 {
-  color: var(--dl-color-default-white);
-  height: auto;
-  font-size: 16px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 500;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
- 
-.contacts-text11 {
-  color: var(--dl-color-default-gray);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
- 
-.contacts-text12 {
-  color: var(--dl-color-default-white);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
- 
-.contacts-frame234 {
-  gap: 12px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
- 
-.contacts-text13 {
-  color: var(--dl-color-default-white);
-  height: auto;
-  font-size: 24px;
-  font-style: Medium;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 500;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
- 
-.contacts-group22 {
-  width: 112px;
-  height: 32px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
- 
-.contacts-github {
-  top: 0px;
-  left: 0px;
-  width: 32px;
-  height: 32px;
-  position: absolute;
-}
- 
-.contacts-figma {
-  top: 0px;
-  left: 40px;
-  width: 32px;
-  height: 32px;
-  position: absolute;
-}
- 
-.contacts-discord1 {
-  top: 0px;
-  left: 80px;
-  width: 32px;
-  height: 32px;
-  position: absolute;
-}
- 
-.contacts-text14 {
-  color: var(--dl-color-default-gray);
-  width: 298px;
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
 }
  
 .contacts-title {
@@ -765,7 +608,7 @@
   align-items: flex-start;
 }
  
-.contacts-text15 {
+.contacts-text10 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 32px;
@@ -787,7 +630,7 @@
   align-items: flex-start;
 }
  
-.contacts-text16 {
+.contacts-text11 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 32px;
@@ -804,46 +647,22 @@
   gap: 5px;
   top: 467px;
   left: 171px;
-  width: 95px;
+  width: 124px;
   display: flex;
   position: absolute;
   align-items: center;
 }
  
-.contacts-twitter1 {
+.contacts-twitter {
   width: 32px;
   height: 32px;
-}
- 
-.contacts-text17 {
-  color: var(--dl-color-default-gray);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
- 
-.contacts-media2 {
-  gap: 5px;
-  top: 466px;
-  left: 288px;
-  width: 95px;
   display: flex;
-  position: absolute;
-  align-items: center;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
 }
  
-.contacts-twitter2 {
-  width: 32px;
-  height: 32px;
-}
- 
-.contacts-text18 {
+.contacts-text12 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -878,7 +697,7 @@
   flex-shrink: 1;
 }
  
-.contacts-text19 {
+.contacts-text13 {
   color: var(--dl-color-default-gray);
   width: 505px;
   height: auto;
@@ -918,7 +737,7 @@
   flex-direction: column;
 }
  
-.contacts-text20 {
+.contacts-text14 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
@@ -944,7 +763,7 @@
   align-items: center;
 }
  
-.contacts-discord2 {
+.contacts-discord1 {
   width: 32px;
   height: 32px;
   display: flex;
@@ -964,7 +783,7 @@
   height: 32px;
 }
  
-.contacts-text21 {
+.contacts-text15 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -991,7 +810,7 @@
   flex-direction: column;
 }
  
-.contacts-text22 {
+.contacts-text16 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -1004,7 +823,7 @@
   text-decoration: none;
 }
  
-.contacts-text23 {
+.contacts-text17 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1031,13 +850,18 @@
   background-color: var(--dl-color-default-background);
 }
  
+.contacts-navlink {
+  display: contents;
+}
+ 
 .contacts-frame40 {
   gap: 8px;
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
  
-.contacts-logo2 {
+.contacts-logo1 {
   width: 16px;
   height: 16px;
   display: flex;
@@ -1046,7 +870,7 @@
   flex-shrink: 0;
 }
  
-.contacts-union2 {
+.contacts-union1 {
   top: 0px;
   left: 0px;
   width: 16px;
@@ -1054,7 +878,7 @@
   position: absolute;
 }
  
-.contacts-text24 {
+.contacts-text18 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
@@ -1078,7 +902,7 @@
   align-items: flex-start;
 }
  
-.contacts-text25 {
+.contacts-text19 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
@@ -1096,7 +920,7 @@
   align-items: flex-start;
 }
  
-.contacts-text26 {
+.contacts-text20 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1114,7 +938,7 @@
   align-items: flex-start;
 }
  
-.contacts-text27 {
+.contacts-text21 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1132,7 +956,7 @@
   align-items: flex-start;
 }
  
-.contacts-text28 {
+.contacts-text22 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1152,7 +976,7 @@
   align-items: center;
 }
  
-.contacts-text29 {
+.contacts-text23 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1191,7 +1015,7 @@
   position: absolute;
 }
  
-.contacts-frame592 {
+.contacts-frame591 {
   gap: 8px;
   height: 1px;
   display: flex;
@@ -1208,7 +1032,7 @@
   background-color: var(--dl-color-default-background);
 }
  
-.contacts-text30 {
+.contacts-text24 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1221,7 +1045,7 @@
   text-decoration: none;
 }
  
-.contacts-text31 {
+.contacts-text25 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -1234,10 +1058,178 @@
   text-decoration: none;
 }
  
-.contacts-media3 {
+.contacts-media2 {
   top: 0px;
   left: 17px;
   width: 32px;
   height: 311px;
   position: absolute;
+}
+ 
+.contacts-vector {
+  top: 476px;
+  left: 191px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.contacts-frame491 {
+  gap: 48px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contacts-frame492 {
+  gap: 437px;
+  width: 1025px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.contacts-frame244 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contacts-frame592 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.contacts-frame16 {
+  gap: 9px;
+  display: flex;
+  align-items: center;
+}
+ 
+.contacts-logo2 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.contacts-union2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.contacts-text26 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.contacts-text27 {
+  color: var(--dl-color-default-gray);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.contacts-text28 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.contacts-frame234 {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contacts-text29 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.contacts-group22 {
+  width: 112px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.contacts-github {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.contacts-figma {
+  top: 0px;
+  left: 40px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.contacts-discord2 {
+  top: 0px;
+  left: 80px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+ 
+.contacts-text30 {
+  color: var(--dl-color-default-gray);
+  width: 298px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Fira Code;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
 }

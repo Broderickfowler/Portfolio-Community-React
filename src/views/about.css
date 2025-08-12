@@ -1944,7 +1944,7 @@
   text-decoration: none;
 }
  
-.about-frame571 {
+.about-frame57 {
   gap: 10px;
   display: flex;
   padding: 8px;
@@ -1985,35 +1985,6 @@
  
 .about-text61 {
   color: var(--dl-color-default-gray);
-}
- 
-.about-frame572 {
-  gap: 17px;
-  display: flex;
-  align-items: flex-start;
-}
- 
-.about-frame55 {
-  gap: 10px;
-  display: flex;
-  padding: 8px;
-  align-items: flex-start;
-  border-color: rgba(171, 178, 191, 1);
-  border-style: solid;
-  border-width: 1px;
-}
- 
-.about-text63 {
-  color: var(--dl-color-default-gray);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Fira Code;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
 }
  
 .about-group53 {
@@ -2219,7 +2190,7 @@
   position: absolute;
 }
  
-.about-text64 {
+.about-text63 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
@@ -2243,7 +2214,7 @@
   align-items: flex-start;
 }
  
-.about-text65 {
+.about-text64 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
@@ -2261,7 +2232,7 @@
   align-items: flex-start;
 }
  
-.about-text66 {
+.about-text65 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -2279,7 +2250,7 @@
   align-items: flex-start;
 }
  
-.about-text67 {
+.about-text66 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -2297,7 +2268,7 @@
   align-items: flex-start;
 }
  
-.about-text68 {
+.about-text67 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -2317,7 +2288,7 @@
   align-items: center;
 }
  
-.about-text69 {
+.about-text68 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -2373,7 +2344,7 @@
   background-color: var(--dl-color-default-background);
 }
  
-.about-text70 {
+.about-text69 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;
@@ -2386,7 +2357,7 @@
   text-decoration: none;
 }
  
-.about-text71 {
+.about-text70 {
   color: var(--dl-color-default-gray);
   height: auto;
   font-size: 16px;

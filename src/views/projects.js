@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -16,135 +17,135 @@ const Projects = (props) => {
             <div className="projects-frame221">
               <img
                 alt="Ellipse23I424"
-                src="/ellipse23i424-8dbq-200h.png"
+                src="/ellipse23i424-wbdn-200h.png"
                 className="projects-ellipse231"
               />
               <img
                 alt="Ellipse21I424"
-                src="/ellipse21i424-8xcd-200h.png"
+                src="/ellipse21i424-7pjm-200h.png"
                 className="projects-ellipse211"
               />
               <img
                 alt="Ellipse22I424"
-                src="/ellipse22i424-7u2r-200h.png"
+                src="/ellipse22i424-46hf-200h.png"
                 className="projects-ellipse221"
               />
               <img
                 alt="Ellipse20I424"
-                src="/ellipse20i424-bags-200h.png"
+                src="/ellipse20i424-qoqe-200h.png"
                 className="projects-ellipse201"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-cryg-200h.png"
+                src="/ellipse36i424-7o5j-200h.png"
                 className="projects-ellipse3610"
               />
             </div>
             <div className="projects-frame231">
               <img
                 alt="Ellipse25I424"
-                src="/ellipse25i424-gbrk-200w.png"
+                src="/ellipse25i424-kng-200w.png"
                 className="projects-ellipse251"
               />
               <img
                 alt="Ellipse26I424"
-                src="/ellipse26i424-437p-200h.png"
+                src="/ellipse26i424-27p-200h.png"
                 className="projects-ellipse261"
               />
               <img
                 alt="Ellipse24I424"
-                src="/ellipse24i424-i6m-200h.png"
+                src="/ellipse24i424-08j-200h.png"
                 className="projects-ellipse241"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-he4j-200h.png"
+                src="/ellipse19i424-ukym-200h.png"
                 className="projects-ellipse1910"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-kgj-200h.png"
+                src="/ellipse36i424-otxh-200h.png"
                 className="projects-ellipse3611"
               />
             </div>
             <div className="projects-frame241">
               <img
                 alt="Ellipse29I424"
-                src="/ellipse29i424-uwaa-200w.png"
+                src="/ellipse29i424-ltr-200w.png"
                 className="projects-ellipse291"
               />
               <img
                 alt="Ellipse30I424"
-                src="/ellipse30i424-02sx-200h.png"
+                src="/ellipse30i424-61p7-200h.png"
                 className="projects-ellipse301"
               />
               <img
                 alt="Ellipse28I424"
-                src="/ellipse28i424-dz3n-200h.png"
+                src="/ellipse28i424-pmw-200h.png"
                 className="projects-ellipse281"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-nd8-200h.png"
+                src="/ellipse19i424-s9j-200h.png"
                 className="projects-ellipse1911"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-db0d-200h.png"
+                src="/ellipse36i424-kao-200h.png"
                 className="projects-ellipse3612"
               />
             </div>
             <div className="projects-frame251">
               <img
                 alt="Ellipse33I424"
-                src="/ellipse33i424-16vj-200w.png"
+                src="/ellipse33i424-llup-200w.png"
                 className="projects-ellipse331"
               />
               <img
                 alt="Ellipse34I424"
-                src="/ellipse34i424-oh5l-200h.png"
+                src="/ellipse34i424-q9mk-200h.png"
                 className="projects-ellipse341"
               />
               <img
                 alt="Ellipse32I424"
-                src="/ellipse32i424-q6s-200h.png"
+                src="/ellipse32i424-3bl-200h.png"
                 className="projects-ellipse321"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-y5qv-200h.png"
+                src="/ellipse19i424-o3rp-200h.png"
                 className="projects-ellipse1912"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-rceh-200h.png"
+                src="/ellipse36i424-vx0e-200h.png"
                 className="projects-ellipse3613"
               />
             </div>
             <div className="projects-frame261">
               <img
                 alt="Ellipse33I424"
-                src="/ellipse33i424-hk1c-200h.png"
+                src="/ellipse33i424-yeli-200h.png"
                 className="projects-ellipse332"
               />
               <img
                 alt="Ellipse34I424"
-                src="/ellipse34i424-z58q-200h.png"
+                src="/ellipse34i424-06q-200h.png"
                 className="projects-ellipse342"
               />
               <img
                 alt="Ellipse32I424"
-                src="/ellipse32i424-9l2-200h.png"
+                src="/ellipse32i424-wr9-200h.png"
                 className="projects-ellipse322"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-dtd-200h.png"
+                src="/ellipse19i424-qwze-200h.png"
                 className="projects-ellipse1913"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-iml-200h.png"
+                src="/ellipse36i424-ajyn-200h.png"
                 className="projects-ellipse3614"
               />
             </div>
@@ -153,135 +154,135 @@ const Projects = (props) => {
             <div className="projects-frame222">
               <img
                 alt="Ellipse23I424"
-                src="/ellipse23i424-d9b-200h.png"
+                src="/ellipse23i424-1px4-200h.png"
                 className="projects-ellipse232"
               />
               <img
                 alt="Ellipse21I424"
-                src="/ellipse21i424-b5dl-200h.png"
+                src="/ellipse21i424-2v0x-200h.png"
                 className="projects-ellipse212"
               />
               <img
                 alt="Ellipse22I424"
-                src="/ellipse22i424-xl4-200w.png"
+                src="/ellipse22i424-s7b-200w.png"
                 className="projects-ellipse222"
               />
               <img
                 alt="Ellipse20I424"
-                src="/ellipse20i424-ts88-200h.png"
+                src="/ellipse20i424-0val-200h.png"
                 className="projects-ellipse202"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-x9n2-200h.png"
+                src="/ellipse36i424-5l3z-200h.png"
                 className="projects-ellipse3615"
               />
             </div>
             <div className="projects-frame232">
               <img
                 alt="Ellipse25I424"
-                src="/ellipse25i424-3gyd-200h.png"
+                src="/ellipse25i424-lkzh-200h.png"
                 className="projects-ellipse252"
               />
               <img
                 alt="Ellipse26I424"
-                src="/ellipse26i424-dsfp-200h.png"
+                src="/ellipse26i424-003-200h.png"
                 className="projects-ellipse262"
               />
               <img
                 alt="Ellipse24I424"
-                src="/ellipse24i424-chyl-200w.png"
+                src="/ellipse24i424-sxlp-200w.png"
                 className="projects-ellipse242"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-obuh-200h.png"
+                src="/ellipse19i424-f345-200h.png"
                 className="projects-ellipse1914"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-ea8l-200w.png"
+                src="/ellipse36i424-v0vq-200w.png"
                 className="projects-ellipse3616"
               />
             </div>
             <div className="projects-frame242">
               <img
                 alt="Ellipse29I424"
-                src="/ellipse29i424-wg6m-200h.png"
+                src="/ellipse29i424-d6ug-200h.png"
                 className="projects-ellipse292"
               />
               <img
                 alt="Ellipse30I424"
-                src="/ellipse30i424-sjyq-200h.png"
+                src="/ellipse30i424-ia2b-200h.png"
                 className="projects-ellipse302"
               />
               <img
                 alt="Ellipse28I424"
-                src="/ellipse28i424-pycl-200w.png"
+                src="/ellipse28i424-qyfs-200w.png"
                 className="projects-ellipse282"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-s0z-200h.png"
+                src="/ellipse19i424-2cx8-200h.png"
                 className="projects-ellipse1915"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-b54h-200w.png"
+                src="/ellipse36i424-5e1-200w.png"
                 className="projects-ellipse3617"
               />
             </div>
             <div className="projects-frame252">
               <img
                 alt="Ellipse33I424"
-                src="/ellipse33i424-s0cg-200h.png"
+                src="/ellipse33i424-roz-200h.png"
                 className="projects-ellipse333"
               />
               <img
                 alt="Ellipse34I424"
-                src="/ellipse34i424-cc4b-200h.png"
+                src="/ellipse34i424-1b1e-200h.png"
                 className="projects-ellipse343"
               />
               <img
                 alt="Ellipse32I424"
-                src="/ellipse32i424-q8yh-200w.png"
+                src="/ellipse32i424-nq6c-200w.png"
                 className="projects-ellipse323"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-mo3p-200h.png"
+                src="/ellipse19i424-x2d-200h.png"
                 className="projects-ellipse1916"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-3m9-200w.png"
+                src="/ellipse36i424-9cjs-200w.png"
                 className="projects-ellipse3618"
               />
             </div>
             <div className="projects-frame262">
               <img
                 alt="Ellipse33I424"
-                src="/ellipse33i424-1gtb-200h.png"
+                src="/ellipse33i424-rwec-200h.png"
                 className="projects-ellipse334"
               />
               <img
                 alt="Ellipse34I424"
-                src="/ellipse34i424-zte4-200h.png"
+                src="/ellipse34i424-g3nr-200h.png"
                 className="projects-ellipse344"
               />
               <img
                 alt="Ellipse32I424"
-                src="/ellipse32i424-9d4-200w.png"
+                src="/ellipse32i424-8cko-200w.png"
                 className="projects-ellipse324"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-mnzs-200h.png"
+                src="/ellipse19i424-pjae-200h.png"
                 className="projects-ellipse1917"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-721-200h.png"
+                src="/ellipse36i424-2sgl-200h.png"
                 className="projects-ellipse3619"
               />
             </div>
@@ -290,127 +291,127 @@ const Projects = (props) => {
             <div className="projects-frame223">
               <img
                 alt="Ellipse23I424"
-                src="/ellipse23i424-raca-200h.png"
+                src="/ellipse23i424-93v8-200h.png"
                 className="projects-ellipse233"
               />
               <img
                 alt="Ellipse21I424"
-                src="/ellipse21i424-40pq-200h.png"
+                src="/ellipse21i424-fkii-200h.png"
                 className="projects-ellipse213"
               />
               <img
                 alt="Ellipse22I424"
-                src="/ellipse22i424-c41e-200h.png"
+                src="/ellipse22i424-766u-200h.png"
                 className="projects-ellipse223"
               />
               <img
                 alt="Ellipse20I424"
-                src="/ellipse20i424-6hht-200h.png"
+                src="/ellipse20i424-9vi8-200h.png"
                 className="projects-ellipse203"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-6zz-200h.png"
+                src="/ellipse36i424-sef4-200h.png"
                 className="projects-ellipse3620"
               />
             </div>
             <div className="projects-frame233">
               <img
                 alt="Ellipse25I424"
-                src="/ellipse25i424-7xa-200h.png"
+                src="/ellipse25i424-vfdd-200h.png"
                 className="projects-ellipse253"
               />
               <img
                 alt="Ellipse26I424"
-                src="/ellipse26i424-7wt-200h.png"
+                src="/ellipse26i424-s4rh-200h.png"
                 className="projects-ellipse263"
               />
               <img
                 alt="Ellipse24I424"
-                src="/ellipse24i424-iltb-200h.png"
+                src="/ellipse24i424-g70m-200h.png"
                 className="projects-ellipse243"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-9jci-200h.png"
+                src="/ellipse19i424-k8g-200h.png"
                 className="projects-ellipse1918"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-xug5-200h.png"
+                src="/ellipse36i424-5rkh-200h.png"
                 className="projects-ellipse3621"
               />
             </div>
             <div className="projects-frame243">
               <img
                 alt="Ellipse29I424"
-                src="/ellipse29i424-r9uw-200h.png"
+                src="/ellipse29i424-86b-200h.png"
                 className="projects-ellipse293"
               />
               <img
                 alt="Ellipse30I424"
-                src="/ellipse30i424-qpvl-200h.png"
+                src="/ellipse30i424-a4v-200h.png"
                 className="projects-ellipse303"
               />
               <img
                 alt="Ellipse28I424"
-                src="/ellipse28i424-1bc-200h.png"
+                src="/ellipse28i424-5lr4-200h.png"
                 className="projects-ellipse283"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-1017-200h.png"
+                src="/ellipse19i424-10gn-200h.png"
                 className="projects-ellipse1919"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-fwmd-200h.png"
+                src="/ellipse36i424-zwn-200h.png"
                 className="projects-ellipse3622"
               />
             </div>
             <div className="projects-frame263">
               <img
                 alt="Ellipse33I424"
-                src="/ellipse33i424-ylz-200h.png"
+                src="/ellipse33i424-jwm-200h.png"
                 className="projects-ellipse335"
               />
               <img
                 alt="Ellipse34I424"
-                src="/ellipse34i424-o6s-200h.png"
+                src="/ellipse34i424-dwbq-200h.png"
                 className="projects-ellipse345"
               />
               <img
                 alt="Ellipse32I424"
-                src="/ellipse32i424-l8bu-200h.png"
+                src="/ellipse32i424-mr0h-200h.png"
                 className="projects-ellipse325"
               />
               <img
                 alt="Ellipse19I424"
-                src="/ellipse19i424-l6os-200h.png"
+                src="/ellipse19i424-dape-200h.png"
                 className="projects-ellipse1920"
               />
               <img
                 alt="Ellipse36I424"
-                src="/ellipse36i424-h0t-200h.png"
+                src="/ellipse36i424-70h-200h.png"
                 className="projects-ellipse3623"
               />
             </div>
           </div>
           <img
             alt="Rectangle254240"
-            src="/rectangle254240-5t69-200w.png"
+            src="/rectangle254240-7iu-200w.png"
             className="projects-rectangle251"
           />
           <img
             alt="Rectangle254240"
-            src="/rectangle254240-qyd-200w.png"
+            src="/rectangle254240-751-200w.png"
             className="projects-rectangle252"
           />
         </div>
         <div className="projects-footer">
           <img
             alt="Line11I424"
-            src="/line11i424-n6c.svg"
+            src="/line11i424-gdb9.svg"
             className="projects-line11"
           />
           <div className="projects-frame491">
@@ -421,7 +422,7 @@ const Projects = (props) => {
                     <div className="projects-logo1">
                       <img
                         alt="UnionI424"
-                        src="/unioni424-drhr.svg"
+                        src="/unioni424-lb8.svg"
                         className="projects-union1"
                       />
                     </div>
@@ -440,17 +441,17 @@ const Projects = (props) => {
                 <div className="projects-group22">
                   <img
                     alt="GithubI424"
-                    src="/githubi424-o86s.svg"
+                    src="/githubi424-yamq.svg"
                     className="projects-github"
                   />
                   <img
                     alt="FigmaI424"
-                    src="/figmai424-f3ld.svg"
+                    src="/figmai424-lc08.svg"
                     className="projects-figma"
                   />
                   <img
                     alt="DiscordI424"
-                    src="/discordi424-yot.svg"
+                    src="/discordi424-6m2c.svg"
                     className="projects-discord"
                   />
                 </div>
@@ -469,33 +470,35 @@ const Projects = (props) => {
         </div>
         <div className="projects-complete">
           <div className="projects-frame472">
-            <div className="projects-frame510">
-              <div className="projects-project10">
+            <div className="projects-frame51">
+              <div className="projects-project1">
                 <img
                   alt="Rectangle22I424"
-                  src="/rectangle22i424-63r2-300h.png"
+                  src="/rectangle22i424-mcyq-300h.png"
                   className="projects-rectangle221"
                 />
-                <div className="projects-frame3910">
-                  <span className="projects-text17">HTML</span>
-                  <span className="projects-text18">SCSS</span>
-                  <span className="projects-text19">Python</span>
-                  <span className="projects-text20">Flask</span>
+                <div className="projects-frame391">
+                  <span className="projects-text17">N8N</span>
+                  <span className="projects-text18">Automation</span>
+                  <span className="projects-text19">Lead</span>
+                  <span className="projects-text20">generation</span>
                 </div>
-                <div className="projects-frame310">
-                  <span className="projects-text21">ChertNodes</span>
+                <div className="projects-frame32">
+                  <span className="projects-text21">Email Tracking</span>
                   <span className="projects-text22">
-                    Minecraft servers hosting
-                    <span
-                      dangerouslySetInnerHTML={{
-                        __html: ' ',
-                      }}
-                    />
+                    Email tracking to lead generation
                   </span>
-                  <div className="projects-frame511">
-                    <div className="projects-frame610">
-                      <span className="projects-text23">Live &lt;~&gt;</span>
-                    </div>
+                  <div className="projects-frame52">
+                    <a
+                      href="https://github.com/Broderickfowler/n8n-workflows2/blob/main/n8n/Quiz%20to%20email%20campaign.json"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link1"
+                    >
+                      <div className="projects-frame61">
+                        <span className="projects-text23">Live &lt;~&gt;</span>
+                      </div>
+                    </a>
                     <div className="projects-frame71">
                       <span className="projects-text24">Cached &gt;=</span>
                     </div>
@@ -505,91 +508,103 @@ const Projects = (props) => {
               <div className="projects-group4">
                 <img
                   alt="Rectangle22I424"
-                  src="/rectangle22i424-2ba-300h.png"
+                  src="/rectangle22i424-zypa-300h.png"
                   className="projects-rectangle222"
                 />
-                <div className="projects-frame3911">
-                  <span className="projects-text25">CSS</span>
-                  <span className="projects-text26">Express</span>
-                  <span className="projects-text27">Node.js</span>
+                <div className="projects-frame392">
+                  <span className="projects-text25">AI</span>
+                  <span className="projects-text26">Wordpress</span>
+                  <span className="projects-text27">HTML</span>
                 </div>
-                <div className="projects-frame311">
-                  <span className="projects-text28">Kahoot Answers Viewer</span>
+                <div className="projects-frame33">
+                  <span className="projects-text28">Mexisoul</span>
                   <span className="projects-text29">
                     Get answers to your kahoot quiz
                   </span>
-                  <div className="projects-frame512">
-                    <div className="projects-frame611">
-                      <span className="projects-text30">Live &lt;~&gt;</span>
-                    </div>
+                  <div className="projects-frame53">
+                    <a
+                      href="https://mexisoulretreats.com/"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link2"
+                    >
+                      <div className="projects-frame62">
+                        <span className="projects-text30">Live &lt;~&gt;</span>
+                      </div>
+                    </a>
                   </div>
                 </div>
               </div>
               <div className="projects-group3">
                 <img
                   alt="Rectangle22I424"
-                  src="/rectangle22i424-rmtn-300h.png"
+                  src="/rectangle22i424-ydua-300h.png"
                   className="projects-rectangle223"
                 />
-                <div className="projects-frame3912">
-                  <span className="projects-text31">React</span>
-                  <span className="projects-text32">Express</span>
-                  <span className="projects-text33">Discord.js</span>
-                  <span className="projects-text34">Node.js</span>
+                <div className="projects-frame393">
+                  <span className="projects-text31">Automation</span>
+                  <span className="projects-text32">AI</span>
+                  <span className="projects-text33">Notion</span>
+                  <span className="projects-text34">System</span>
                 </div>
-                <div className="projects-frame312">
-                  <span className="projects-text35">ProtectX</span>
-                  <span className="projects-text36">
-                    Discord anti-crash bot
-                  </span>
-                  <div className="projects-frame513">
-                    <div className="projects-frame72">
-                      <span className="projects-text37">Cached &gt;=</span>
-                    </div>
+                <div className="projects-frame34">
+                  <span className="projects-text35">Alma Atelier GDL</span>
+                  <span className="projects-text36">Creative System</span>
+                  <div className="projects-frame54">
+                    <a
+                      href="https://www.notion.so/Financial-Tracker-1d9778b6174580c0b1caec3215c5868d"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link3"
+                    >
+                      <div className="projects-frame72">
+                        <span className="projects-text37">Live &gt;=</span>
+                      </div>
+                    </a>
                   </div>
                 </div>
               </div>
             </div>
             <div className="projects-frame481">
-              <div className="projects-project11">
+              <div className="projects-project2">
                 <img
                   alt="Rectangle22I429"
-                  src="/rectangle22i429-kfxr-300h.png"
+                  src="/rectangle22i429-cmae-300h.png"
                   className="projects-rectangle224"
                 />
-                <div className="projects-frame3913">
-                  <span className="projects-text38">HTML</span>
+                <div className="projects-frame394">
+                  <span className="projects-text38">N8N</span>
                   <span className="projects-text39">CSS</span>
                   <span className="projects-text40">JS</span>
                 </div>
-                <div className="projects-frame313">
+                <div className="projects-frame35">
                   <span className="projects-text41">Kotik Bot</span>
                   <span className="projects-text42">
                     Multi-functional discord bot
                   </span>
-                  <div className="projects-frame514">
-                    <div className="projects-frame612">
+                  <div className="projects-frame55">
+                    <div className="projects-frame63">
                       <span className="projects-text43">Live &lt;~&gt;</span>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="projects-project12">
+              <div className="projects-project3">
                 <img
                   alt="Rectangle22I446"
-                  src="/rectangle22i446-g9v-300h.png"
+                  src="/rectangle22i446-ydb-300h.png"
                   className="projects-rectangle225"
                 />
-                <div className="projects-frame3914">
+                <div className="projects-frame395">
                   <span className="projects-text44">Vue</span>
                   <span className="projects-text45">TS</span>
                   <span className="projects-text46">Less</span>
                 </div>
-                <div className="projects-frame314">
+                <div className="projects-frame37">
                   <span className="projects-text47">Portfolio</span>
                   <span className="projects-text48">You’re using it rn</span>
-                  <div className="projects-frame515">
-                    <div className="projects-frame613">
+                  <div className="projects-frame56">
+                    <div className="projects-frame64">
                       <span className="projects-text49">Github &lt;~&gt;</span>
                     </div>
                   </div>
@@ -604,153 +619,92 @@ const Projects = (props) => {
         <div className="projects-small">
           <div className="projects-frame482">
             <div className="projects-frame473">
-              <div className="projects-project13">
-                <div className="projects-frame3915">
-                  <span className="projects-text51">Discord.js</span>
-                  <span className="projects-text52">TS</span>
-                  <span className="projects-text53">JS</span>
+              <div className="projects-project4">
+                <div className="projects-frame396">
+                  <span className="projects-text51">json</span>
+                  <span className="projects-text52">AI Agents</span>
+                  <span className="projects-text53">Automation</span>
                 </div>
-                <div className="projects-frame315">
-                  <span className="projects-text54">Bot boilerplate</span>
-                  <span className="projects-text55">
-                    Start creating scalable discord.js bot with typescript in
-                    seconds
+                <div className="projects-frame38">
+                  <span className="projects-text54">
+                    Generate Guerrilla Marketing Campaign Plans with AI Swarm
+                    Intelligence
                   </span>
-                  <div className="projects-frame516">
-                    <div className="projects-frame614">
-                      <span className="projects-text56">Github &lt;~&gt;</span>
-                    </div>
+                  <span className="projects-text55">AI Swarm Intelligence</span>
+                  <div className="projects-frame57">
+                    <a
+                      href="https://github.com/Broderickfowler/n8n-workflows2/blob/main/n8n/Generate%20Guerrilla%20Marketing%20Campaign%20Plans%20with%20AI%20Swarm%20Intelligence.json"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link4"
+                    >
+                      <div className="projects-frame65">
+                        <span className="projects-text56">
+                          Github &lt;~&gt;
+                        </span>
+                      </div>
+                    </a>
                   </div>
                 </div>
               </div>
-              <div className="projects-project14">
-                <div className="projects-frame3916">
-                  <span className="projects-text57">VUE</span>
-                  <span className="projects-text58">CSS</span>
+              <div className="projects-project5">
+                <div className="projects-frame397">
+                  <span className="projects-text57">json</span>
+                  <span className="projects-text58">AI Agents</span>
                   <span className="projects-text59">JS</span>
                 </div>
-                <div className="projects-frame316">
-                  <span className="projects-text60">My blog</span>
+                <div className="projects-frame310">
+                  <span className="projects-text60">
+                    Automate Sales Cold Calling
+                  </span>
                   <span className="projects-text61">
-                    Front-end of my future blog website written in vue
+                    AI provided cold sales calling
                   </span>
-                  <div className="projects-frame517">
-                    <div className="projects-frame615">
-                      <span className="projects-text62">Github &lt;~&gt;</span>
-                    </div>
+                  <div className="projects-frame58">
+                    <a
+                      href="https://github.com/Broderickfowler/n8n-workflows2/blob/main/n8n/Automate%20Sales%20Cold%20Calling%20Pipeline%20with%20Apify%2C%20GPT-4o%2C%20and%20WhatsApp.json"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link5"
+                    >
+                      <div className="projects-frame66">
+                        <span className="projects-text62">
+                          Github &lt;~&gt;
+                        </span>
+                      </div>
+                    </a>
                   </div>
                 </div>
               </div>
-              <div className="projects-project15">
-                <div className="projects-frame3917">
-                  <span className="projects-text63">Figma</span>
+              <div className="projects-project6">
+                <div className="projects-frame398">
+                  <span className="projects-text63">N8N</span>
                 </div>
-                <div className="projects-frame317">
-                  <span className="projects-text64">Chess pro</span>
+                <div className="projects-frame311">
+                  <span className="projects-text64">Influencer Outreach</span>
                   <span className="projects-text65">
-                    Figma landing page about service for viewing chess
-                    tournaments
+                    Influencer Outreach automation
                   </span>
-                  <div className="projects-frame518">
-                    <div className="projects-frame616">
-                      <span className="projects-text66">Figma &lt;~&gt;</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="projects-frame50">
-              <div className="projects-project16">
-                <div className="projects-frame3918">
-                  <span className="projects-text67">Figma</span>
-                </div>
-                <div className="projects-frame318">
-                  <span className="projects-text68">Crash protect website</span>
-                  <span className="projects-text69">
-                    Figma template for website about anti-raid, anti-crash
-                    discord bot
-                  </span>
-                  <div className="projects-frame519">
-                    <div className="projects-frame617">
-                      <span className="projects-text70">Figma &lt;~&gt;</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="projects-project17">
-                <div className="projects-frame3919">
-                  <span className="projects-text71">HTML</span>
-                  <span className="projects-text72">CSS</span>
-                </div>
-                <div className="projects-frame319">
-                  <span className="projects-text73">CSS expirements</span>
-                  <span className="projects-text74">
-                    Collection of my different little projects in css
-                  </span>
-                  <div className="projects-frame520">
-                    <div className="projects-frame618">
-                      <span className="projects-text75">Live &lt;~&gt;</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="projects-project18">
-                <div className="projects-frame3920">
-                  <span className="projects-text76">Lua</span>
-                  <span className="projects-text77">NeoVim</span>
-                </div>
-                <div className="projects-frame320">
-                  <span className="projects-text78">Web Dev nvim config</span>
-                  <span className="projects-text79">
-                    Config for neovim perfect for web developer
-                  </span>
-                  <div className="projects-frame521">
-                    <div className="projects-frame619">
-                      <span className="projects-text80">Github &lt;~&gt;</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="projects-frame51">
-              <div className="projects-project19">
-                <div className="projects-frame3921">
-                  <span className="projects-text81">Python</span>
-                  <span className="projects-text82">Quart</span>
-                  <span className="projects-text83">HTML</span>
-                </div>
-                <div className="projects-frame321">
-                  <span className="projects-text84">Ooku</span>
-                  <span className="projects-text85">
-                    Simple link shortener with auth
-                  </span>
-                  <div className="projects-frame522">
-                    <div className="projects-frame620">
-                      <span className="projects-text86">Live &lt;~&gt;</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="projects-project20">
-                <div className="projects-frame3922">
-                  <span className="projects-text87">Figma</span>
-                </div>
-                <div className="projects-frame322">
-                  <span className="projects-text88">School website</span>
-                  <span className="projects-text89">
-                    Figma template website for my school
-                  </span>
-                  <div className="projects-frame523">
-                    <div className="projects-frame621">
-                      <span className="projects-text90">Figma &lt;~&gt;</span>
-                    </div>
+                  <div className="projects-frame510">
+                    <a
+                      href="https://github.com/Broderickfowler/n8n-workflows2/blob/main/n8n/Influencer_Outreach_CollegianCoffee.json"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="projects-link6"
+                    >
+                      <div className="projects-frame67">
+                        <span className="projects-text66">
+                          Github &lt;~&gt;
+                        </span>
+                      </div>
+                    </a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
           <div className="projects-h22">
-            <span className="projects-text91">small-projects</span>
+            <span className="projects-text67">small-projects</span>
           </div>
         </div>
         <div className="projects-header">
@@ -758,49 +712,57 @@ const Projects = (props) => {
             <div className="projects-logo2">
               <img
                 alt="UnionI451"
-                src="/unioni451-2b9.svg"
+                src="/unioni451-4mxb.svg"
                 className="projects-union2"
               />
             </div>
-            <span className="projects-text92">LeoX</span>
+            <span className="projects-text68">LeoX</span>
           </div>
           <div className="projects-frame1">
             <div className="projects-headerlink1">
-              <span className="projects-text93">home</span>
+              <Link to="/" className="projects-text69">
+                home
+              </Link>
             </div>
             <div className="projects-headerlink2">
-              <span className="projects-text94">works</span>
+              <Link to="/projects" className="projects-text70">
+                works
+              </Link>
             </div>
             <div className="projects-headerlink3">
-              <span className="projects-text95">about-me</span>
+              <Link to="/about" className="projects-text71">
+                about-me
+              </Link>
             </div>
             <div className="projects-headerlink4">
-              <span className="projects-text96">contacts</span>
+              <Link to="/contacts" className="projects-text72">
+                contacts
+              </Link>
             </div>
             <div className="projects-languageswitcher">
-              <span className="projects-text97">EN</span>
+              <span className="projects-text73">EN</span>
               <div className="projects-group58">
                 <img
                   alt="Line14I451"
-                  src="/line14i451-hx2i.svg"
+                  src="/line14i451-1lff.svg"
                   className="projects-line14"
                 />
                 <img
                   alt="Line15I451"
-                  src="/line15i451-tqte.svg"
+                  src="/line15i451-eje.svg"
                   className="projects-line15"
                 />
               </div>
               <div className="projects-frame592">
-                <span className="projects-text98">RU</span>
-                <span className="projects-text99">UA</span>
+                <span className="projects-text74">RU</span>
+                <span className="projects-text75">UA</span>
               </div>
             </div>
           </div>
         </div>
         <img
           alt="media2301"
-          src="/media2301-d03.svg"
+          src="/media2301-l9ut.svg"
           className="projects-media"
         />
       </div>
